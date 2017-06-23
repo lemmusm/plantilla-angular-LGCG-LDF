@@ -1,4 +1,4 @@
-# Plantilla Información Financiera -Armonización Contable LGCG y LDF
+# Plantilla Información Financiera -Armonización Contable LGCG y LDF - ANGULAR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
